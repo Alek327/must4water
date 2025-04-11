@@ -21,6 +21,9 @@ jupyter notebook must4water_interactive.ipynb
 ```
 
 3. Upload your CSV or run synthetic simulations.
+   
+4. [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alek327/must4water/HEAD?filepath=must4water_interactive.ipynb)
+
 
 ## File List
 
